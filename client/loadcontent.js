@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-      const scheduleItem = document.getElementById('schedule');
+    const scheduleItem = document.getElementById('schedule');
     const content = document.getElementById('content');
 
     if (scheduleItem && content) {
